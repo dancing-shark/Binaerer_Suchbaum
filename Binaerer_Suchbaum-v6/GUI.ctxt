@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=suchbaum
+comment1.target=GUI(BinaererSuchbaum)
+comment2.params=
+comment2.target=void\ addFrame()
+comment3.params=x\ y\ xOld\ yOld\ begriff\ bedeutung\ abschluss
+comment3.target=void\ addLabel(int,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ boolean)
+comment4.params=
+comment4.target=void\ baumZeichnen()
+numComments=5

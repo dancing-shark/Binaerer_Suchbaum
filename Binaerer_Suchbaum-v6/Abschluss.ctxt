@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Abschluss
+comment1.params=
+comment1.target=Abschluss()
+comment2.params=
+comment2.target=int\ hoeheBerechnen()
+comment3.params=inhaltNeu
+comment3.target=Datenknoten\ sortiertEinfuegen(Datenelement)
+comment4.params=gui\ x\ y\ xOld\ yOld\ positionDeviationX\ layerHeightY
+comment4.target=void\ drawElement(GUI,\ int,\ int,\ int,\ int,\ int,\ int)
+comment5.params=
+comment5.target=boolean\ istDatenknoten()
+numComments=6

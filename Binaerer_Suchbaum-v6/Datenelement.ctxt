@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Datenelement
+comment1.params=
+comment1.target=void\ datenAusgeben()
+comment2.params=suchinhalt
+comment2.target=boolean\ istGleich(Datenelement)
+comment3.params=suchinhalt
+comment3.target=boolean\ istKleiner(Datenelement)
+comment4.params=
+comment4.target=java.lang.String\ bedeutungGeben()
+comment5.params=
+comment5.target=java.lang.String\ begriffGeben()
+numComments=6

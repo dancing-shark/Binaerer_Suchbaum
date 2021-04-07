@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Baumelement
+comment1.params=
+comment1.target=int\ hoeheBerechnen()
+comment2.params=InhaltNeu
+comment2.target=Datenknoten\ sortiertEinfuegen(Datenelement)
+comment3.params=
+comment3.target=boolean\ istDatenknoten()
+comment4.params=gui\ x\ y\ xOld\ yOld\ positionDeviationX\ layerHeightY
+comment4.target=void\ drawElement(GUI,\ int,\ int,\ int,\ int,\ int,\ int)
+numComments=5
