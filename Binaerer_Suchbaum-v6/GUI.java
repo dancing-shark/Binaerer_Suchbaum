@@ -20,7 +20,7 @@ public class GUI{ // Achtung: Nicht verändern
     
     
     public void addLabel(int x, int y, int xOld, int yOld, String begriff, String bedeutung,boolean abschluss){
-        label = new JLabel("<html>"+begriff+"<br/>"+bedeutung+"</html>",JLabel.CENTER);
+        label = new JLabel("<html>"+begriff+"</html>",JLabel.CENTER);//+"<br/>"+bedeutung
         if (abschluss){
             label.setBounds(x+30, y, 25,25);
             label.setBorder(new LineBorder(Color.RED,2));
