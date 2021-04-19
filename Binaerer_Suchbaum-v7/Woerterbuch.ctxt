@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Woerterbuch
+comment1.params=
+comment1.target=Woerterbuch()
+comment2.params=
+comment2.target=int\ heoheBerechnen()
+comment3.params=begriff\ bedeutung
+comment3.target=void\ wortEinfuegen(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ baumZeichnen()
+comment5.params=begriff\ bedeutung
+comment5.target=void\ elementL\u00F6schen(java.lang.String,\ java.lang.String)
+numComments=6

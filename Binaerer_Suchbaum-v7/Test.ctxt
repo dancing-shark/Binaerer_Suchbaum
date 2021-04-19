@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=anzahl
+comment1.target=Test(int)
+comment2.params=
+comment2.target=void\ baumZeichnen()
+comment3.params=begriff\ bedeutung
+comment3.target=void\ wortEinfuegen(java.lang.String,\ java.lang.String)
+numComments=4

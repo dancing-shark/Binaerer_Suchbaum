@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TestClass
+comment1.params=
+comment1.target=TestClass()
+comment2.params=
+comment2.target=void\ baumZeichnen()
+comment3.params=begriff\ bedeutung
+comment3.target=void\ wortEinfuegen(java.lang.String,\ java.lang.String)
+comment4.params=begriff\ bedeutung
+comment4.target=void\ wortEinfuegenUndAusgeben(java.lang.String,\ java.lang.String)
+comment5.params=begriff\ bedeutung
+comment5.target=void\ l\u00F6schen(java.lang.String,\ java.lang.String)
+numComments=6
